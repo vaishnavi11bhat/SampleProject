@@ -1,3 +1,3 @@
-d
-cepc
-f
+LifeBox is an innovative patient focused resource, facilitating communication and information exchange prior to, during, and beyond a hospital admission. 
+
+The digital transformation of the hospital admission process will optimise the patient experience, increasing outcomes and also the efficiency of the hospital, and associated interactions.An electronic map or diary will be provided, recording each patient journey. This resource will be accessible to the patient so that they have ownership of their health journeys.
